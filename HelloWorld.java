@@ -8,6 +8,7 @@ class HelloWorld
     { 
         System.out.println("Hello, World"); 
 	System.out.println("It's ME");
+	System.out.println("SONAR");
     } 
 }
 
